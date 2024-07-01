@@ -1,0 +1,13 @@
+{
+    "service": "pcare-dev",
+    "cons_id": "10267",
+    "secret_key": "4sE673467C",
+    "username": "0113B107",
+    "password": "Mei2024$",
+    "user_key": "be713f65543cb0d8bfa81f3ca62ef70f",
+    "method": "POST",
+    "url": "https:\/\/apijkn-dev.bpjs-kesehatan.go.id\/pcare-rest-dev\/",
+    "end_point": "kunjungan",
+    "withParams": true,
+    "params": "{\n\t\"noKunjungan\": \"24.00.41.57.50\",\n\t\"noKartu\": \"0002039455798\",\n\t\"tglDaftar\": \"20-06-2024\",\n\t\"kdPoli\": \"001\",\n\t\"keluhan\": \"INI CATATAN KELUHAN\",\n\t\"kdSadar\": \"01\",\n\t\"sistole\": 120,\n\t\"diastole\": 80,\n\t\"beratBadan\": 50,\n\t\"tinggiBadan\": 170,\n\t\"respRate\": 46,\n\t\"heartRate\": 50,\n\t\"lingkarPerut\": 36,\n\t\"terapi\": \"-\",\n\t\"kdStatusPulang\": \"3\",\n\t\"tglPulang\": \"20-06-2024\",\n\t\"kdDokter\": \"128907\",\n\t\"kdDiag1\": \"A01.2\",\n\t\"kdDiag2\": null,\n\t\"kdDiag3\": null,\n\t\"kdPoliRujukInternal\": \"\",\n\t\n\t\t\"rujukLanjut\": {\t\n\t\t\"tglEstRujuk\":\"01-01-1970\",\n\t\t\"kdppk\": \"\",\n\t\t\"subSpesialis\": {\n\t\t\t\"kdSubSpesialis1\": \"\",\n\t\t\t\"kdSarana\": null\n\t\t},\n\t\t\"khusus\": null\n\t\t},\n\t\n\t\"kdTacc\": \"-1\",\n\t\"alasanTacc\": \"\",\n\t\"anamnesa\": \"INI CATATAN ANAMNESA\",\n\t\"alergiMakan\": \"00\",\n\t\"alergiUdara\": \"00\",\n\t\"alergiObat\": \"00\",\n\t\"kdPrognosa\": \"01\",\n\t\"terapiObat\": \"-\",\n\t\"terapiNonObat\": \"-\",\n\t\"bmhp\": \"bmhp\",\n\t\"suhu\": \"27\"\n}"
+}

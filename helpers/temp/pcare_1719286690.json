@@ -1,0 +1,13 @@
+{
+    "service": "pcare",
+    "cons_id": "13846",
+    "secret_key": "7jN92C8FA6",
+    "username": "0115U021_betty",
+    "password": "Kfpp254$",
+    "user_key": "5dbbb1df32c1fe4b70a599229a37f04d",
+    "method": "GET",
+    "url": "https:\/\/apijkn.bpjs-kesehatan.go.id\/pcare-rest\/",
+    "end_point": "kunjungan\/rujukan\/0115U0210624Y001284",
+    "withParams": false,
+    "params": ""
+}

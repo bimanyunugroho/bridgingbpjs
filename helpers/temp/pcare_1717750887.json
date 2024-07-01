@@ -1,0 +1,13 @@
+{
+    "service": "pcare",
+    "cons_id": "9883",
+    "secret_key": "6rL16D1678",
+    "username": "0140B012",
+    "password": "Kfgrogot@555",
+    "user_key": "177dc727ae1c243b902d90b695eef6f1",
+    "method": "POST",
+    "url": "https:\/\/apijkn.bpjs-kesehatan.go.id\/pcare-rest\/",
+    "end_point": "kunjungan",
+    "withParams": true,
+    "params": "{\n\t\t  \"noKunjungan\": \"23.00.41.11.65\",\n\t\t  \"noKartu\": \"0002279446762\",\n\t\t  \"tglDaftar\": \"07-06-2024\",\n\t\t  \"kdPoli\": \"001\",\n\t\t  \"keluhan\": \"\",\n\t\t  \"kdSadar\": \"01\",\n\t\t  \"sistole\": 120,\n\t\t  \"diastole\": 80,\n\t\t  \"beratBadan\": 60,\n\t\t  \"tinggiBadan\": 165,\n\t\t  \"respRate\": 20,\n\t\t  \"heartRate\": 88,\n\t\t  \"lingkarPerut\": 36,\n\t\t  \"terapi\": \"-\",\n\t\t  \"kdStatusPulang\": \"3\",\n\t\t  \"tglPulang\": \"07-06-2024\",\n\t\t  \"kdDokter\": \"505622\",\n\t\t  \"kdDiag1\": \"J02.9\",\n\t\t  \"kdDiag2\": ,\n\t\t  \"kdDiag3\": ,\n\t\t  \"kdPoliRujukInternal\": \"\",\n\t\t  \n\t\t\t  \"rujukLanjut\": {\t\n\t\t\t  \t\"tglEstRujuk\":\"01-01-1970\",\n\t\t\t    \"kdppk\": \"\",\n\t\t\t    \"subSpesialis\": {\n\t\t\t\t\t\"kdSubSpesialis1\": \"\",\n\t\t\t\t\t\"kdSarana\": null\n\t\t\t\t},\n\t\t\t    \"khusus\": null\n\t\t\t  },\n\t\t\t\n\t\t  \"kdTacc\": \"-1\",\n\t\t  \"alasanTacc\": \"\",\n\t\t  \"anamnesa\": \"\",\n\t\t  \"alergiMakan\": \"00\",\n\t\t  \"alergiUdara\": \"00\",\n\t      \"alergiObat\": \"00\",\n\t\t  \"kdPrognosa\": \"01\",\n\t\t  \"terapiObat\": \"-\",\n\t      \"terapiNonObat\": \"-\",\n\t\t  \"bmhp\": \"bmhp\",\n\t\t  \"suhu\": \"36\"\n\t\t}\n\t  "
+}

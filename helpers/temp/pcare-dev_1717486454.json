@@ -1,0 +1,13 @@
+{
+    "service": "pcare-dev",
+    "cons_id": "7138",
+    "secret_key": "8wPD898231",
+    "username": "evie.mba18",
+    "password": "*KmtWe7Di9Oo9N",
+    "user_key": "2d80bfe8a3ed05578fe862457f92d261",
+    "method": "GET",
+    "url": "https:\/\/apijkn-dev.bpjs-kesehatan.go.id\/pcare-rest-dev\/",
+    "end_point": "dokter\/0\/50",
+    "withParams": false,
+    "params": ""
+}

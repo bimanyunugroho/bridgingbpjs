@@ -1,0 +1,13 @@
+{
+    "service": "pcare",
+    "cons_id": "1076",
+    "secret_key": "5oO13317FB",
+    "username": "0136B003",
+    "password": "Kfgnjt15@",
+    "user_key": "109b34277f8e4b5c34266203775a7b42",
+    "method": "GET",
+    "url": "https:\/\/apijkn.bpjs-kesehatan.go.id\/pcare-rest\/",
+    "end_point": "kunjungan\/peserta\/0002885423703",
+    "withParams": false,
+    "params": ""
+}

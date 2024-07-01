@@ -1,0 +1,13 @@
+{
+    "service": "pcare-dev",
+    "cons_id": "10267",
+    "secret_key": "4sE673467C",
+    "username": "0113B107",
+    "password": "Mei2024$",
+    "user_key": "be713f65543cb0d8bfa81f3ca62ef70f",
+    "method": "POST",
+    "url": "https:\/\/apijkn-dev.bpjs-kesehatan.go.id\/pcare-rest-dev\/",
+    "end_point": "kunjungan",
+    "withParams": true,
+    "params": ""
+}
